@@ -1,5 +1,5 @@
 # Ray Tracing
-* Assignment2 of CS337 in SJTU
+* Assignment2 of CS337 Computer Graphics in SJTU
 * By Chenge Sun
 * With C++ glew+glfw3 Xcode(ver10.1) on macOS Mojave(ver10.14.2)
 
@@ -69,3 +69,4 @@ The model of Stanford Bunny is from [here](http://www.cc.gatech.edu/projects/lar
 
 ## Contact
 sunchenge1997@sjtu.edu.cn
+
