@@ -1,6 +1,6 @@
 # Ray Tracing
 * Assignment2 of CS337 in SJTU
-* By Chenge Sun 516030910421
+* By Chenge Sun
 * With C++ glew+glfw3 Xcode(ver10.1) on macOS Mojave(ver10.14.2)
 
 ## Including Files
@@ -19,6 +19,7 @@
 	* *1.bmp* a demo image texture
 * In image file:
 	* screenshots of the demo scene
+* Project requirement file *Assignment2.pptx*
 
 ## How to Run
 ### Xcode
