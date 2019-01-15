@@ -58,7 +58,7 @@ Then you can see the demo scene as shown in */images/4\_Scene* after a time-cons
 * Read in material properties of sphere and cube objects including:
 	* Surface color
 	* Emission color
-	* Reflection coefficient($k_a,k_d,k_{sp},sunshiness$)
+	* Reflection coefficient( $k_a,k_d,k_{sp},sunshiness$ )
 	* Image files for implementing texture mapping(only support *.bmp* files currently)
 	* Build-in texture（only support chessboard texture currently）
 * Read in model files(in *.txt* files with vertices and faces of the model)
