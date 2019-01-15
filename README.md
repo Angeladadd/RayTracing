@@ -1,5 +1,4 @@
-#RayTracing
-
+# Ray Tracing
 * Assignment2 of CS337 in SJTU
 * By Chenge Sun 516030910421
 * With C++ glew+glfw3 Xcode(ver10.1) on macOS Mojave(ver10.14.2)
